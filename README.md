@@ -3,19 +3,19 @@
 Hello there, my name is <b>Abdullah.</b> I was born in <b>Egypt</b>. I'm <b>Backend Developer</b> and I currently reside in <b>Giza.</b> I aspire to work for a large-scale company
 
 <h2><b>Languages</b></h2>
-<a>
+<a href="#">
   <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </a>
-<a>
+<a href="#">
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
-<a>
+<a href="#">
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
-<a>
+<a href="#">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-<a>
+<a href="#">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
@@ -65,7 +65,7 @@ Hello there, my name is <b>Abdullah.</b> I was born in <b>Egypt</b>. I'm <b>Back
 </a>
 
 <h2><b>Hosting</b></h2>
-<a href="https://www.cloudflare.com/">
+<a href="https://www.cloudflare.com">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </a>
 

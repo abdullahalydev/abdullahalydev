@@ -1,6 +1,6 @@
-![Hello There Image](https://github.com/abdullahalydev/abdullahalydev/assets/74661073/f57ae8df-5632-491e-9d88-a401ed5a9947)
-<h1>About</h1>
+![Hello There](https://github.com/abdullahalydev/abdullahalydev/assets/74661073/7e679d06-2b89-4935-b922-e4a667b41fed)
 
+<h1>About</h1>
 Hello there, my name is <b>Abdullah.</b> I was born in <b>Egypt</b>. I'm <b>Backend Developer</b> and I currently reside in <b>Giza.</b> I aspire to work for a large-scale company
 
 <h2><b>Languages</b></h2>

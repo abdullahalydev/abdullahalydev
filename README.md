@@ -1,6 +1,5 @@
-![Hello There Banner](https://github.com/abdullahalydev/abdullahalydev/assets/74661073/ba483998-4ed1-484d-b39d-59fbce43a193)
+<h1>About</h1>![1500x500 Banner 3](https://github.com/user-attachments/assets/362559f4-ff0e-42c8-9420-925662c9d50f)
 
-<h1>About</h1>
 Hello there, my name is <b>Abdullah.</b> I was born in <b>Egypt</b>. I'm <b>Backend Developer</b> and I currently reside in <b>Giza.</b> I aspire to work for a large-scale company
 
 <h2><b>Languages</b></h2>
